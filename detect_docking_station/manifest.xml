@@ -1,0 +1,16 @@
+<package>
+  <description brief="detect_docking_station">
+
+     detect_docking_station
+
+  </description>
+  <author>aitor</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/detect_docking_station</url>
+  <depend package="sensor_msgs"/>
+  <depend package="roscpp"/>
+
+</package>
+
+
